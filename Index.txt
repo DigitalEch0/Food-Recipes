@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>
+      Chocolate Chip Cookies
+      </title>
+      <meta charset="UTF-8">
+    </head>
+    <body>
+      <h1>Chocolate Chip Cookies</h1>
+      <p>
+        There’s nothing quite like the comforting aroma of freshly baked chocolate chip cookies wafting through the kitchen. Whether you’re craving a nostalgic treat, baking for friends, or just need something sweet to brighten your day, this classic chocolate chip cookie recipe hits the spot every time. Soft in the center, crisp on the edges, and packed with gooey chocolate chips, these cookies are the kind that disappear fast—so don’t be surprised if you find yourself making a second batch!
+        </p>
+        <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="A picture of the ingredients">
+        <h2>Ingredients</h2>
+        <ul>
+          <li>1 cup (2 sticks) unsalted butter, softened
+
+          <li>3/4 cup granulated sugar
+
+          <li>3/4 cup packed brown sugar
+
+          <li>2 large eggs
+
+          <li>2 tsp vanilla extract
+
+          <li>2 1/4 cups all-purpose flour
+
+          <li>1 tsp baking soda
+
+          <li>1/2 tsp salt
+
+          <li>2 cups semi-sweet chocolate chips
+
+          <li>Optional: 1 cup chopped nuts (walnuts or pecans)
+        </ul>
+        <h2>Instructions</h2>
+        <ol>
+          <li>Preheat oven to 375°F (190°C). Line a baking sheet with parchment paper.
+
+          <li>Cream butter and sugars: In a large bowl, beat together the butter, granulated sugar, and brown sugar until smooth and creamy.
+
+          <li>Add eggs and vanilla: Beat in the eggs one at a time, then stir in the vanilla.
+
+          <li>Mix dry ingredients: In a separate bowl, whisk together flour, baking soda, and salt. Gradually add to the wet mixture.
+
+          <li>Stir in chocolate chips (and nuts if using) until evenly distributed.
+
+          <li>Scoop dough: Drop rounded tablespoons of dough onto the prepared baking sheet, spacing them about 2 inches apart.
+
+          <li>Bake for 10–12 minutes, or until edges are golden brown and centers are still soft.
+
+          <li>Cool: Let cookies cool on the sheet for 2 minutes before transferring to a wire rack.
+          </ol>
+      </body>
+</html>
